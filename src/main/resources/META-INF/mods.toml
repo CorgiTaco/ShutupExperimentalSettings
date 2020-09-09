@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[33,)"
+license="LGPLv3"
+issueTrackerURL="https://www.google.com/"
+[[mods]]
+modId="shutupexperimentalsettings"
+version="1.0.0"
+displayName="Shutup Experimental Settings!"
+displayURL="https://www.google.com/"
+logoFile="logo_text.png"
+credits="RdvDev2 for the code from fabric"
+authors="Corgi Taco"
+description='''
+Turns off the annoying experimental settings prompt before creating a world.
+'''
+[[dependencies.shutupexperimentalsettings]]
+    modId="forge"
+    mandatory=true
+    versionRange="[33.0.0,)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "corgitaco.shutupexperimentalsettings.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "shutupexperimentalsettings.refmap.json",
+  "mixins": [],
+  "client": [
+    "client.MixinMinecraft"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
