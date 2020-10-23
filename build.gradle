@@ -94,7 +94,7 @@ jar {
                 "Implementation-Vendor" :"${modid}",
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
                 "MixinConfigs": "${modid}.mixins.json",
-                "MixinConnector":"voronoiaoc.byg.mixin.MixinConnector"
+                "MixinConnector":"corgitaco.shutupexperimentalsettings.mixin.MixinConnector"
         ])
     }
 }
