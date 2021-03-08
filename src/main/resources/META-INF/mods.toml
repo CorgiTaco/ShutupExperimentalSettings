@@ -18,4 +18,4 @@ Turns off the annoying experimental settings prompt before creating a world.
     mandatory=true
     versionRange="[36.0.4,)"
     ordering="NONE"
-    side="BOTH"
+    side="CLIENT"
