@@ -1,12 +1,13 @@
 {
   "required": true,
   "package": "corgitaco.shutupexperimentalsettings.mixin",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_17",
   "refmap": "shutupexperimentalsettings.refmap.json",
   "mixins": [
+    "PrimaryLevelDataMixin"
   ],
   "client": [
-    "client.MixinServerWorldInfo"
+    "client.WorldSelectionListMixin"
   ],
   "injectors": {
     "defaultRequire": 1
