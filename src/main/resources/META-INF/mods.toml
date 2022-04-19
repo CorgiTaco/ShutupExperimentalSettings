@@ -16,6 +16,6 @@ Turns off the annoying experimental settings prompt before creating a world.
 [[dependencies.shutupexperimentalsettings]]
     modId="forge"
     mandatory=true
-    versionRange="[40.0.0,)"
+    versionRange="[40.0.29,)"
     ordering="NONE"
     side="CLIENT"
