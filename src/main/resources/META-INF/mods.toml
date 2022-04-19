@@ -4,7 +4,7 @@ license="GPLv3"
 issueTrackerURL="https://github.com/CorgiTaco/ShutupExperimentalSettings/issues"
 [[mods]]
 modId="shutupexperimentalsettings"
-version="1.0.3"
+version="1.0.4"
 displayName="Shutup Experimental Settings!"
 displayURL="https://github.com/CorgiTaco/ShutupExperimentalSettings"
 logoFile="logo_text.png"
