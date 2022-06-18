@@ -70,7 +70,7 @@ jar {
     manifest {
         attributes([
                 "Specification-Title": "${modid}",
-                "Specification-Vendor": "examplemodsareus",
+                "Specification-Vendor": "corgitaco",
                 "Specification-Version": "1", // We are version 1 of ourselves
                 "Implementation-Title": project.name,
                 "Implementation-Version": "${version}",
